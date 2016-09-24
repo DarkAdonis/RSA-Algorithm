@@ -2,7 +2,7 @@
 import math
 
 def rsa(e, n):
-    #dafaq
+    
 
     #find phi,
     prime1 = 0
